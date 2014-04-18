@@ -1,4 +1,4 @@
 LWJGLConnectFour
 ================
 
-This is a Connect Four game written in Java using Slick and LWJGL libraries.
+This is a Connect Four game written in Java. It uses LWJGL and Slick libraries.
